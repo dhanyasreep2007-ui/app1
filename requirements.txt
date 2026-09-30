@@ -1,0 +1,7 @@
+streamlit
+ollama
+google-genai
+python-dotenv
+sentence-transformers
+chromadb
+
